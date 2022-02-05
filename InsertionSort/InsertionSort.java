@@ -1,8 +1,6 @@
-package Sorting_Algorithms;
-
 import java.util.Random;
 
-public class InsertionSort2 {
+public class InsertionSort {
 
 	/*
 	 * Insertion Sort:
@@ -82,24 +80,4 @@ public class InsertionSort2 {
 		return nums;
 	}
 	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }	//End Class
