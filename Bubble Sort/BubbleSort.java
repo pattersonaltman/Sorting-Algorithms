@@ -58,7 +58,7 @@ public class BubbleSort {
 	 * 			- set swap boolean back to false until a swap occurs
 	 * 			- for i to 2nd-to-last index
 	 * 				- if nums[i] > nums[i+1]
-	 * 					- nums[i] and nums[i+1]
+	 * 					- swap nums[i] and nums[i+1]
 	 * 					- set swap boolean, another pass will be required
 	 */
 	
