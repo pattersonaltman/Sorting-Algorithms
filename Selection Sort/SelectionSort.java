@@ -14,7 +14,7 @@ public class SelectionSort {
 	 * 			- Although the time complexity should never be O(n^2). The actual time 
 	 * 				complexity should always be a Triangular Number series, represented 
 	 * 				by the formula: O(n) = n(n+1)/2
-	 * 									 = 1 + 2 + 3 + ... n
+	 * 						     = 1 + 2 + 3 + ... n
 	 * 
 	 * Sources:
 	 * 	- https://www.geeksforgeeks.org/selection-sort/
