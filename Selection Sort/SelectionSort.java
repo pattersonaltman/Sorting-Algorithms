@@ -23,7 +23,7 @@ public class SelectionSort {
 	 * 	- Continually iterate over the array, finding the minimum in the array and moving 
 	 * 		it to the front of the array. With each iteration, the "front" of the array 
 	 * 		moves forward 1, towards the end of the array. Moving the minimum value to 
-	 * 		the front of the array is done by swapping front and minimum-value's indices.
+	 * 		the front of the array is done by swapping the front and minimum-value's indices.
 	 * 
 	 * Algorithm:
 	 * 	- for(beginning-n)
